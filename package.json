@@ -1,0 +1,22 @@
+{
+  "name": "asd",
+  "version": "16.16.0",
+  "description": "sargad",
+  "main": "dsfd",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gs"
+  },
+  "keywords": [
+    "dsff"
+  ],
+  "author": "pashupati",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
